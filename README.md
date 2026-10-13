@@ -27,10 +27,9 @@ See `docs/architecture.png` for the system block diagram.
 
 The following results are reported in the project simulation:
 
-| Metric                | Conventional LFSR | RP-PRPG           |
-|                       |                   |                   |
-| Toggle count          | 196               | 149               |
-| Relative toggle count | 100%              | Approximately 76% |
+Metric :Conventional LFSR : RP-PRPG           
+Toggle count : 196  :49               
+Relative toggle count:100% :Approximately 76% 
 
 The reported reduction in toggle count is approximately 24%, calculated as:
 
@@ -76,7 +75,6 @@ The exact top-module name and any additional setup depend on the uploaded source
 ## Team
 
 - Charitha S Jain
-- Kirti Giriraju
 - Krisha Arveti
 - Manasa
 
